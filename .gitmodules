@@ -1,4 +1,4 @@
 
 [submodule "stepone"]
 	path = stepone
-	url = git@github.com:barelyhuman/stepone
+	url = https://github.com/barelyhuman/stepone
